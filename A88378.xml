@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lively character of some pretending grandees of Scotland to the good old cause.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88378</idno><idno type="EEBO-CITATION">99866891</idno>
+  <idno type="VID">168605</idno>
+  <idno type="EEBO-PROQUEST">2240945889</idno>
+  
+            <idno type="STC">Wing L2592</idno>
+            <idno type="STC">Thomason E985_15</idno>
+            <idno type="STC">ESTC R207864</idno>
+            <idno type="PROQUEST">99866891</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866891e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168605)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E985[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lively character of some pretending grandees of Scotland to the good old cause.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 6.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168605:1"/>
+            <p>A LIVELY CHARACTER OF SOME Pretending Grandees OF SCOTLAND TO THE <hi>good old cause.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168605:2"/>
+            <pb n="1" facs="tcp:168605:2"/>
+            <head>A Lively CHARACTER of some <hi>Pretending Grandees</hi> of <hi>Scotland,</hi> to the <hi>Good Old Cause.</hi> Digested into Eight Queries.</head>
+            <p n="1">I. <seg rend="decorInit">W</seg>Hether he be not fitly qualified to be a Counsellour of State, who whiles the Parliament and Army were streight with God, and vigorous in carrying on the Good old Cause, not only would not joyn with them, but in pre<g ref="char:EOLhyphen"/>sence of many godly Christians in <hi>E<g ref="char:EOLhyphen"/>denburgh,</hi> imprecated wraths and curses from heaven against them, as Sectaries, Murtherers, and Covenant-breakers? Who disswaded godly and well-affected persons in <hi>Scotland</hi> from joyning with them, under the hazzard of being guilty of all the blood shed at <hi>Dunbar, Dundee, Worcester,</hi> and <hi>Innerkeithing:</hi> Who would not suffer his cause to be pleaded before their Judges in his own Name, but borrowed his neighbours for that effect: Who being called thereto, refused to bear witnesse in an action where they were Judges: And yet forgetting his former pray<g ref="char:EOLhyphen"/>ers, and swallowing the pretended conscience, joyned with the late usurping Protector, in the height of the now ac<g ref="char:EOLhyphen"/>knowledged Apostasie, receiving from him at once three honourable places; whereof one (albeit uselesse, excep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for
+<pb n="2" facs="tcp:168605:3"/> upholding the pomp of the injoyer) hath depending on it about fourty or fifty inferiour officers, and about two thou<g ref="char:EOLhyphen"/>sand pound Sterling <hi>per Annum,</hi> to make his Kitchin smoak well: Who since his entry thereto never deduced a Processe against any of the number for purgi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g out the corrupt, ex<g ref="char:EOLhyphen"/>cept one who was known to be a person of the greatest inte<g ref="char:EOLhyphen"/>grity and honesty of the whole body: Who since his entry to that place, hath raised the pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces of Decreets, Acts, Bils, and other Writs, whereof he makes gain, not only beyond what they were before his entry, but farre above what they were in the late Kings time; to inrich himself upon the ruines of a poor fainting people, almost utterly broken before: Who in <hi>Anno</hi> 1649. albeit with many others a short space before, he had sworn to purge Judicatories and places of Trust of Malignants, gave under his own hand Commissions for Clerks who were notorious &amp; known Malignants, receiving large summes of money therefore: Who these eight years by-gone, never pleaded one Cause for the Kirk of <hi>Scotland,</hi> and yet by order of the late Protector, sacrilegiously did take up his yearly salary as Advoca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for the same: Who not only accepted to be a member of the Other House, but being there, manifested himself zealous for Recognizing the Lord Protector, and preached <hi>ad nauseam</hi> against that tolleration and liberty of conscience which Gods Word doth allow, and for which as a peculiar jewel and principal part of the Good old Cause, the godly in these Nations are contending against Antichrist and his Impostors: Hath not such a person pure hands fitted for carrying on a glorious work of Reformati<g ref="char:EOLhyphen"/>on? Or hath he written on his forehead the character of the murmuring Spies, that he shall never enter into the promised Land? <hi>Be not deceived, God is not mocked, evil company cor<g ref="char:EOLhyphen"/>rupteth good manners.</hi>
+            </p>
+            <p n="2">II. Whether he be not furnished with sufficient endow<g ref="char:EOLhyphen"/>ments to be Governour of <hi>Scotland,</hi> who is qualified as fol<g ref="char:EOLhyphen"/>lows, <hi>viz.</hi>
+            </p>
+            <p>Who in the first place for inriching himself, banished and begge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed his father and brother, and by bought pleas and <hi>legerdemain</hi> obtai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the Estate of the Marquess of <hi>Huntley</hi>
+               <pb n="3" facs="tcp:168605:3"/> united to his own; whereby for magnitude he possesses near the fifth part of <hi>Scotland</hi> for his inheritance; and for freeing the same of incumbrances, obtained two Acts of Parliament discharging him of his few duties: And order for 30000 pound sterling of the money given to the <hi>Scots</hi> Army when they marched out of <hi>Newcastle:</hi> a thousand pound sterling <hi>per Annum</hi> of yearly pension from the late King; and a general contribution from persons of all ranks throughout the Nation of <hi>Scotland. Principem oportet esse divitem.</hi>
+            </p>
+            <p>Secondly, Who hath the goodly confidence and resolute audacity to deny himself to have been one of the promovers of <hi>Charles Stuart</hi> his coming home to <hi>Scotland;</hi> albeit he cannot but look upon it as his duty to have been one of that number, in regard about a year and an half since he moved publickly of the Exchequer, his pension granted by the late King might be allowed by way of compensation for the few duties resting by him to the publick (which he could not de<g ref="char:EOLhyphen"/>mand, but for service done to the King) and albeit his mis<g ref="char:EOLhyphen"/>sive letters can be produced in <hi>London</hi> at this present time, directed to Sir <hi>Thomas Cunningham</hi> (then Conservator) for furnishing whatsoever money was necessary for bringing home the Kings Horses or otherwise.</p>
+            <p>Thirdly, Who had the pious zeal to cause to be killed hun<g ref="char:EOLhyphen"/>dreds of persons in cold blood at <hi>Dinnaverke</hi> near the point of <hi>Kyntyre,</hi> after they had yielded to his mercy, by pardies, when souldiers refused the fact, as unworthy of military hands, for the good cause; and about fourty more at <hi>Kil<g ref="char:EOLhyphen"/>minisce</hi> and elsewhere, contrary to his expresse Articles and Capitulation, preferring the publick good to his own Con<g ref="char:EOLhyphen"/>science and Credit?</p>
+            <p>Fourthly, Who was so wise as to out-wit Duke <hi>Hamilton,</hi> by deserting his master handsomly, (albeit his pensioner) when he saw the Duke was preferred to him, and joyn with the <hi>English</hi> cordially so long as the heart of power is in their hands; keeping his eldest son for a reserve, to shew the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<g ref="char:EOLhyphen"/>lity of his hypocrisie, if ever hereafter the King shall become Master. Riches, Zeal, Courage and wit, seems for ever hereafter to command silence to all who shall dare to re<g ref="char:EOLhyphen"/>proach such a Champion.</p>
+            <p n="3">
+               <pb n="4" facs="tcp:168605:4"/>III. Whether he be rather to be looked upon as a Pro<g ref="char:EOLhyphen"/>tectorian Trapanner, or as a person fit to be General of the <hi>English</hi> Army in a Forreign Nation, to whom his late High<g ref="char:EOLhyphen"/>nesse gave his Niece in Marriage, with a larger Portion than King <hi>Henry</hi> the Seventh did to his Daughter; albeit a <hi>Scots</hi> Laird of two or three hundreth a year, which his Father and Mother life-rents, and wherein his Eldest Sonne of the first Marriage stands infeofft; notwithstanding he had been active against him in <hi>anno</hi> 1648 at <hi>Preston,</hi> and elsewhere since, <hi>viz.</hi> The Palace and Park of <hi>Falkland,</hi> and Lordship of <hi>Kelso,</hi> worth two or three thousand <hi>per annum;</hi> the keeping of the Signet as Secretary in <hi>Scotland,</hi> worth two thousand <hi>per an<g ref="char:EOLhyphen"/>num;</hi> a Salary or allowance as Privy Councellour, Ambas<g ref="char:EOLhyphen"/>sadour, and General of the Army; the Office of Advocate General in <hi>Scotland</hi> to his Brother <hi>George,</hi> lately come from Schools, before he had ever born the burden of one privat acti<g ref="char:EOLhyphen"/>on for manifesting his ability; the places of a Bed-Chamberman, Commissary of <hi>Glascow,</hi> and Writer to the Privy Seal, to his other Brother Mr. <hi>John?</hi>
+            </p>
+            <p n="4">IV. Whether my Lord General <hi>Lockart</hi> ought to be en<g ref="char:EOLhyphen"/>rolled among the Penitents for the Apostasie of the times? who having put out of their places Mr. <hi>Hope</hi> and Mr. <hi>Moseley,</hi> to make way for himself; Mr. <hi>Pittilloh,</hi> and Mr. <hi>Scot,</hi> to make empty places for his two Brothers; as yet heares not the cries of their Families ascending up to Heaven against him, nor restores to them their losses; albeit he cannot be so igno<g ref="char:EOLhyphen"/>rant in Divinity, as not to know, <hi>non tollitur peccatum, nisi restituatur ablatum?</hi>
+            </p>
+            <p n="5">V. Whether he be fitter to be a Judge and Privy-Coun<g ref="char:EOLhyphen"/>cellor in <hi>Scotland,</hi> or a Stage-player at <hi>White-Hall,</hi> who in <hi>anno</hi> 1650 attended the one day the <hi>English</hi> Councel of war at <hi>Barwick,</hi> the other, the <hi>Scottish</hi> at <hi>Edenburgh:</hi> He who before installing of the late Protector, walked humbly and contentedly under his excommunication, was a friend to persons of integrity and honesty, kept sober and honest ser<g ref="char:EOLhyphen"/>vants in his Family, walked Christianly in his apparel, and seemed a lover of those that fea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the Lord; who so soon as his Master was lift up to a Throne, obtained his sentence of
+<pb n="5" facs="tcp:168605:4"/> excommunication taken off by the Presbyterians, shewed himself zealous in propping this tottering Throne, choosed the most eminent and notorious Malignants for his intimate companions; looking upon honest Christians (if not as great as good) with a supercilious eye, who kept the places of Privy-Councellour and Judge in causes civil and criminal, ha<g ref="char:EOLhyphen"/>ving been equally bred in the knowledge of all; beside about 800 pound <hi>per annum</hi> out of my Lord <hi>Landerdails</hi> estate, under the name of 400, albeit many of his Creditors be like to perish for want of bread; who has been active and instru<g ref="char:EOLhyphen"/>mental in putting known Malignants in places of trust; who scandalously feasted an <hi>English</hi> Lady in his house for several daies, then <hi>pessimae fidei,</hi> and since justly deserted by her hus<g ref="char:EOLhyphen"/>band, when his own was at <hi>London:</hi> Who with his stately Lady swaggered with the best of the Court in gallant apparel and powdred periwigs while it lasted: But now amongst the first of Reformers hath thrown off his false head, gotten shoes cut round over in the foreparts, and speaks nothing but <hi>shibboleth,</hi> to the great satisfaction of all the off-spring of <hi>James,</hi> turning not only Round-head but Round-Scot? <hi>Qui nescit dissimulare, nescit regnare.</hi>
+            </p>
+            <p n="6">VI. Whether three petty Gentlemen of mean estates, and meaner wits, taking upon them without commission or warrant to act in name of the Nation of <hi>Scotland,</hi> are to be accounted medlers, or fools?</p>
+            <p n="7">VII. Whether he be not an accomplished individual to make up the number, who having attained to the degree of a Colonel rather through penury of Valiants, than his own worth, albeit in <hi>anno</hi> 1648 he shewed h mself zealous against the <hi>English</hi> in Duke <hi>Hamilton</hi>'s ingagement, is now so desi<g ref="char:EOLhyphen"/>rous to spend himself in their highest services, that to render himself capable of some eminent place, without fear of the hazard of Sesse, he va<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ues himself at a great Land-estate; which in truth stands all upon invisible stones, in the <hi>Ondemi<g ref="char:EOLhyphen"/>an</hi> street of <hi>Eutopia,</hi> except a redeemable wood-set of a part of the Barrony of <hi>Ganvock,</hi> under re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uction by Sr. <hi>John Scot,</hi> which was honourably purchased b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Law of the sw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd, and pillaging the people in <hi>annis</hi> 1646 &amp; 1647, when he was
+<pb n="6" facs="tcp:168605:5"/> Deputy Governour to <hi>David Lesly</hi> of <hi>Straboyre</hi> and <hi>Bogie<g ref="char:EOLhyphen"/>gight,</hi> where to this day he is remembred in the prayers of the Inhabitants?</p>
+            <p n="8">VIII. Whether in a time of Reformation it be the duty of the Parliament to call in to the publick Treasury, the re<g ref="char:EOLhyphen"/>venew which belonged to the Chancellor, Secretary, Clerk, Register, and Privy Seal in <hi>Scotland,</hi> (which will entertain Fifteen able Judges there) or to confer it on some Minions, for upholding their pomps, lest it should offend Lord <hi>Ri<g ref="char:EOLhyphen"/>chard,</hi> to take any thing away which his Father conferred on these who were only useful in these places to uphold his gran<g ref="char:EOLhyphen"/>dure and magnificence?</p>
+            <epigraph>
+               <q>Fiat Justitia, ruat Coelum.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
